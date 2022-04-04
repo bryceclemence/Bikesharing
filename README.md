@@ -18,16 +18,16 @@ Link to Dashboard-https://public.tableau.com/app/profile/bryce.clemence/viz/Citi
 The above two graphs show the number of bikes checked-out and how long they were ridden, in total and broken down by gender.
 From this data we can see that the majority of users were male, and that most of the bikes were needed for 5 minutes. After the 5 minute mark check-out times drop dramatically. This could be problematic when introducing a bikesharing program in cities nnot as densely populated or big as New York, as other cities are more spread out. However, this program could be effective in sections of cities where it does have a high population and is more compact.
 
+![TripsByWeekday](https://user-images.githubusercontent.com/95730890/161493796-b4143c2d-d9fa-4015-9ffb-6c24f069275a.PNG)
 
 ![TripsByGender](https://user-images.githubusercontent.com/95730890/161493716-6dcb1117-73e0-4ed6-abec-32e0c5373ea9.PNG)
 
+These two heatmaps show when usage was the highest. It seems that during rush hours 6-9am and 4-7pm is when activity was the highest, with both male and female usage being aligned. This makes sense in a city like New York since like the rest of the world, people are trying to get to work and are finding an alternative way to get around without having to take the subway, buy a cab, or walk. 
+
+
 ![TripsByGenderByWeekday](https://user-images.githubusercontent.com/95730890/161493755-f7447b01-6bf7-4f5f-be0a-564634431d14.PNG)
 
-![TripsByWeekday](https://user-images.githubusercontent.com/95730890/161493796-b4143c2d-d9fa-4015-9ffb-6c24f069275a.PNG)
-
-The visuals above
-
-
+This graphic shows the usage by gnder on each day. It seems that the users mostly needed to get around on weekdays, with Thursday and Friday being the highest needed days, and Sunday and Wedneday were the lowest days people used Citibike.
 
 ![TopStartingLocations](https://user-images.githubusercontent.com/95730890/161493667-e92d7055-42d7-4927-b6bc-6ee3bea255cf.PNG)
 
