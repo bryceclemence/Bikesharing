@@ -35,3 +35,9 @@ This graphic shows the usage by gnder on each day. It seems that the users mostl
 
 Above are the top starting and ending locations for users of Citibike. From this data it seems that most users start and end their ride within a pretty close radius.
 This shows that the bikesharing program is very useful in New York, as it seems like an increasingly effective way way to get around town without having to take the subway, a cab, or walk.
+
+
+### Summary
+In conclusion it seems like a bikesharing program would be highly beneficial to any well populated area. It is obviously working well in New York and it is a great alternative and environmentally friendly way to get around.
+For additional visualizations I would include data to show exact distance users were riding, because I believe this would change drasically when comparing data to New York, and I would also include a visualization to see what users were using Citibike for, whether it be their usual means of transportation, they used it specifically to get to work, or they are just going on a bike ride. This would be effective when comparing other people's lifestyles in another city.
+
